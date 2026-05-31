@@ -29,6 +29,7 @@ const tannu = {
   languages   : ["Hindi 🗣️", "English 📖", "Maithili 🌸"],
   knows       : ["C", "Java", "HTML", "CSS"],
   learning    : ["JavaScript 📚", "React ⚛️", "Tailwind CSS 🎨"],
+  codingStart : "Started coding after joining college 🎓",
   goals       : ["Build production-grade web projects", "Contribute to impactful open source", "Explore AI/ML after Web Dev mastery"],
   funFact     : "I turn chai ☕ and code into cool projects!"
 };
@@ -38,9 +39,20 @@ const tannu = {
 
 ---
 
+## 🎓 Education
+
+| 🏫 School / College | 📘 Qualification | 
+|---|---|
+| Pusha City Central School | Matriculation (10th) |
+| Mount Carmel International School | Higher Secondary (12th) |
+| Gandhi Institute for Technological Advancement | B.Sc. Computer Science (Ongoing) |
+
+---
+
 ## 🚀 What I'm Up To
 
-- 🔭 Currently building **Web Development projects**
+- 🎓 Pursuing **B.Sc. Computer Science** at GITA
+- 💡 Started coding **after joining college** — and loving it!
 - ✅ I know **C, Java, HTML & CSS**
 - 🌱 Currently learning **JavaScript** (in progress!)
 - 🔜 Next up: **React & Tailwind CSS**

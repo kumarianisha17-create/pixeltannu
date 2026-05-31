@@ -1,16 +1,104 @@
-## Hi there 👋
+<div align="center">
+<!-- Animated Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a0e8f,80:8b1a8b,100:0d1117&height=220&section=header&text=Tannu%20Kumari&fontSize=52&fontColor=ff79c6&animation=fadeIn&fontAlignY=38&desc=💻%20Web%20Developer%20%7C%20🌐%20Open%20Source%20%7C%20🤖%20AI%2FML%20Explorer&descAlignY=60&descSize=16&descColor=bd93f9" />
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=FF79C6&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Tannu+👋;CS+Student+from+India+🇮🇳;Building+Cool+Web+Apps+🌐;Open+Source+Contributor+🤝;AI%2FML+Explorer+Coming+Soon+🤖;Always+Learning%2C+Always+Growing+🚀" alt="Typing SVG" />
+</a>
+<br/><br/>
+<!-- Badges -->
+<img src="https://komarev.com/ghpvc/?username=pixeltannu&label=Profile+Views&color=ff79c6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/pixeltannu?label=Followers&style=for-the-badge&color=ff79c6" />
+<img src="https://img.shields.io/badge/Open%20To%20Collaborate-✅-ff79c6?style=for-the-badge" />
+</div>
+---
+🧑‍💻 About Me
+<img align="right" alt="Coding Girl" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+```javascript
+const tannu = {
+  name        : "Tannu Kumari",
+  username    : "@pixeltannu",
+  location    : "Bihar, India 🇮🇳",
+  pronouns    : "She / Her",
 
-<!--
-**pixeltannu/pixeltannu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  currentFocus: [
+    "Building Web Apps 🌐",
+    "Open Source Contributions 🤝",
+    "Learning AI/ML (coming soon) 🤖"
+  ],
 
-Here are some ideas to get you started:
+  techStack   : ["HTML", "CSS", "JavaScript", "React"],
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  goals       : [
+    "Build production-grade web projects",
+    "Contribute to impactful open source",
+    "Explore AI/ML after Web Dev mastery"
+  ],
+
+  funFact     : "I turn chai ☕ and code into cool projects!"
+};
+```
+<br clear="right"/>
+---
+🚀 What I'm Up To
+🔭 Currently building Web Development projects
+🌱 Learning HTML, CSS, JavaScript & React
+🤝 Actively contributing to Open Source
+🔮 Next goal: Exploring AI/ML after Web Dev
+💬 Ask me about Web Dev, GitHub, or Open Source!
+⚡ Fun fact: My Netflix clone is more responsive than the original 😄
+---
+🛠️ Tech Stack
+<div align="center">
+👩‍💻 Languages
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+🌐 Frameworks & Tools
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+🔧 Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🔮 Exploring Next
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+</div>
+---
+📊 GitHub Stats
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pixeltannu&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pixeltannu&theme=dracula&hide_border=true" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixeltannu&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
+</div>
+---
+🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pixeltannu&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=6" />
+</div>
+---
+📈 Contribution Graph
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pixeltannu&bg_color=1a1b27&color=ff79c6&line=ff79c6&point=ffffff&area=true&hide_border=true&area_color=4a0e8f" />
+</div>
+---
+🌐 Connect With Me
+<div align="center">
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<br/>
+💬 <i>Always open to learning, collaborating, and building something impactful together!</i>
+</div>
+---
+💡 Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</div>
+---
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a0e8f,80:8b1a8b,100:0d1117&height=120&section=footer" />
+⭐ If you like my work, please star my repositories — it motivates me to keep building! ⭐
+</div>

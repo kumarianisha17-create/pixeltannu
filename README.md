@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a0e8f,80:8b1a8b,100:0d1117&height=220&section=header&text=Tannu%20Kumari&fontSize=52&fontColor=ff79c6&animation=fadeIn&fontAlignY=38&desc=💻%20Web%20Developer%20%7C%20🌐%20Open%20Source%20%7C%20🤖%20AI%2FML%20Explorer&descAlignY=60&descSize=16&descColor=bd93f9" />
 
 <a href="https://git.io/typing-svg">
@@ -27,8 +26,10 @@ const tannu = {
   username    : "@pixeltannu",
   location    : "Bihar, India 🇮🇳",
   pronouns    : "She / Her",
+  languages   : ["Hindi 🗣️", "English 📖", "Maithili 🌸"],
   currentFocus: ["Building Web Apps 🌐", "Open Source Contributions 🤝", "Learning AI/ML (coming soon) 🤖"],
-  techStack   : ["HTML", "CSS", "JavaScript", "React"],
+  techStack   : ["HTML", "CSS", "JavaScript", "React", "C", "Java"],
+  learning    : ["JavaScript (Deep Dive) 📚", "React ⚛️", "Tailwind CSS 🎨"],
   goals       : ["Build production-grade web projects", "Contribute to impactful open source", "Explore AI/ML after Web Dev mastery"],
   funFact     : "I turn chai ☕ and code into cool projects!"
 };
@@ -41,11 +42,24 @@ const tannu = {
 ## 🚀 What I'm Up To
 
 - 🔭 Currently building **Web Development projects**
-- 🌱 Learning **HTML, CSS, JavaScript & React**
+- 🌱 Learning **JavaScript, React & Tailwind CSS**
+- 🗣️ I speak **Hindi, English & Maithili**
 - 🤝 Actively contributing to **Open Source**
 - 🔮 Next goal: **Exploring AI/ML after Web Dev**
 - 💬 Ask me about **Web Dev, GitHub, or Open Source!**
-- ⚡ Fun fact: **My Netflix clone is more responsive than the original 😄**
+- ⚡ Fun fact: **I debug with chai ☕ — works better than coffee!**
+
+---
+
+## 🗣️ Languages I Speak
+
+<div align="center">
+
+![Hindi](https://img.shields.io/badge/Hindi-Native-ff79c6?style=for-the-badge)
+![Maithili](https://img.shields.io/badge/Maithili-Native-bd93f9?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Proficient-8be9fd?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -53,12 +67,14 @@ const tannu = {
 
 <div align="center">
 
-### 👩‍💻 Languages
+### 👩‍💻 Languages I Know
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Frameworks & Tools
+### 📚 Currently Learning
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)

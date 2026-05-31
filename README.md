@@ -27,9 +27,8 @@ const tannu = {
   location    : "Bihar, India 🇮🇳",
   pronouns    : "She / Her",
   languages   : ["Hindi 🗣️", "English 📖", "Maithili 🌸"],
-  currentFocus: ["Building Web Apps 🌐", "Open Source Contributions 🤝", "Learning AI/ML (coming soon) 🤖"],
-  techStack   : ["HTML", "CSS", "JavaScript", "React", "C", "Java"],
-  learning    : ["JavaScript (Deep Dive) 📚", "React ⚛️", "Tailwind CSS 🎨"],
+  knows       : ["C", "Java", "HTML", "CSS"],
+  learning    : ["JavaScript 📚", "React ⚛️", "Tailwind CSS 🎨"],
   goals       : ["Build production-grade web projects", "Contribute to impactful open source", "Explore AI/ML after Web Dev mastery"],
   funFact     : "I turn chai ☕ and code into cool projects!"
 };
@@ -42,10 +41,12 @@ const tannu = {
 ## 🚀 What I'm Up To
 
 - 🔭 Currently building **Web Development projects**
-- 🌱 Learning **JavaScript, React & Tailwind CSS**
+- ✅ I know **C, Java, HTML & CSS**
+- 🌱 Currently learning **JavaScript** (in progress!)
+- 🔜 Next up: **React & Tailwind CSS**
 - 🗣️ I speak **Hindi, English & Maithili**
 - 🤝 Actively contributing to **Open Source**
-- 🔮 Next goal: **Exploring AI/ML after Web Dev**
+- 🔮 Future goal: **Exploring AI/ML after Web Dev**
 - 💬 Ask me about **Web Dev, GitHub, or Open Source!**
 - ⚡ Fun fact: **I debug with chai ☕ — works better than coffee!**
 
@@ -67,17 +68,16 @@ const tannu = {
 
 <div align="center">
 
-### 👩‍💻 Languages I Know
+### ✅ Languages I Know
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📚 Currently Learning
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

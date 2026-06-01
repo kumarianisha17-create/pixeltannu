@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a0e8f,80:8b1a8b,100:0d1117&height=220&section=header&text=Tannu%20Kumari&fontSize=52&fontColor=ff79c6&animation=fadeIn&fontAlignY=38&desc=💻%20Web%20Developer%20%7C%20🌐%20Open%20Source%20%7C%20🤖%20AI%2FML%20Explorer&descAlignY=60&descSize=16&descColor=bd93f9" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=FF79C6&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Tannu+👋;CS+Student+from+India+🇮🇳;Building+Cool+Web+Apps+🌐;Open+Source+Contributor+🤝;AI%2FML+Explorer+Coming+Soon+🤖;Always+Learning%2C+Always+Growing+🚀" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=FF79C6&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Tannu+%F0%9F%91%8B;CS+Student+from+India;Building+Cool+Web+Apps;Open+Source+Contributor;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
 <br/><br/>
 

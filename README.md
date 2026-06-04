@@ -90,28 +90,6 @@ const tannu = {
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Tannu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixeltannu&show_icons=true&theme=dracula&hide_border=true)](https://github.com/pixeltannu)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixeltannu&layout=compact&theme=dracula&hide_border=true)](https://github.com/pixeltannu)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pixeltannu&theme=dracula&hide_border=true)](https://github.com/pixeltannu)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=pixeltannu&theme=dracula&no-frame=true&row=1&column=6)](https://github.com/pixeltannu)
-
-</div>
-
 
 ## 📈 Contribution Graph
 

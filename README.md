@@ -94,9 +94,11 @@ const tannu = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=pixeltannu&theme=dracula&hide_border=true" />
+[![Tannu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixeltannu&show_icons=true&theme=dracula&hide_border=true)](https://github.com/pixeltannu)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixeltannu&layout=compact&theme=dracula&hide_border=true" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixeltannu&layout=compact&theme=dracula&hide_border=true)](https://github.com/pixeltannu)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pixeltannu&theme=dracula&hide_border=true)](https://github.com/pixeltannu)
 
 </div>
 
@@ -106,7 +108,7 @@ const tannu = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pixeltannu&theme=dracula&no-frame=true&row=1&column=7" />
+[![Trophies](https://github-profile-trophy.vercel.app/?username=pixeltannu&theme=dracula&no-frame=true&row=1&column=6)](https://github.com/pixeltannu)
 
 </div>
 

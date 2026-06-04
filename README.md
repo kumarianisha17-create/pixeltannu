@@ -95,18 +95,20 @@ const tannu = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pixeltannu&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixeltannu&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
-</div>
 
----
+![Tannu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixeltannu&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixeltannu&layout=donut&theme=dracula&hide_border=true)
+
+</div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pixeltannu&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</div>
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=pixeltannu&theme=dracula&no-frame=true&row=1&column=6)
+
+</div>
 ---
 
 ## 📈 Contribution Graph

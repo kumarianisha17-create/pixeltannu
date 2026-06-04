@@ -52,18 +52,6 @@ const tannu = {
 
 ---
 
-## 🗣️ Languages I Speak
-
-<div align="center">
-
-![Hindi](https://img.shields.io/badge/Hindi-Native-ff79c6?style=for-the-badge)
-![Maithili](https://img.shields.io/badge/Maithili-Native-bd93f9?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Proficient-8be9fd?style=for-the-badge)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -83,10 +71,6 @@ const tannu = {
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🔮 Exploring Next
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 </div>
 

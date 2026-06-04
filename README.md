@@ -37,16 +37,6 @@ const tannu = {
 
 ---
 
-## 🎓 Education
-
-| 🏫 School / College | 📘 Qualification | 
-|---|---|
-| Pusha City Central School | Matriculation (10th) |
-| Mount Carmel International School | Higher Secondary (12th) |
-| Gandhi Institute for Technological Advancement | B.Sc. Computer Science (Ongoing) |
-
----
-
 ## 🚀 What I'm Up To
 
 - 🎓 Pursuing **B.Sc. Computer Science** at GITA

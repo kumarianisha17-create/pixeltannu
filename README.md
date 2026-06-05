@@ -107,6 +107,14 @@ const tannu = {
 
 </div>
 
+## 🔥 GitHub Streak
+
+<div align="center">
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pixeltannu&theme=dracula&border=ff79c6&ring=ff79c6&fire=ff79c6)
+
+</div>
+
 ## 🌐 Connect With Me
 
 <div align="center">

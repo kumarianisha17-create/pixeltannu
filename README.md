@@ -89,22 +89,11 @@ const tannu = {
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 </div>
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pixeltannu&show_icons=true&theme=dracula&border_color=ff79c6&ring_color=ff79c6&title_color=ff79c6" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pixeltannu&layout=compact&theme=dracula&border_color=ff79c6&title_color=ff79c6&langs_count=6" />
-</p>
-## 📈 Contribution Graph
+![Tannu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixeltannu&show_icons=true&theme=dracula&border_color=ff79c6&ring_color=ff79c6&title_color=ff79c6&count_private=true)
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pixeltannu&bg_color=1a1b27&color=ff79c6&line=ff79c6&point=ffffff&area=true&hide_border=true&area_color=4a0e8f" />
-</div>
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixeltannu&layout=compact&theme=dracula&border_color=ff79c6&title_color=ff79c6)
 
 ## 🌐 Connect With Me
 

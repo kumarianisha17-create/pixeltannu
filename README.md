@@ -91,9 +91,13 @@ const tannu = {
 </div>
 ## 📊 GitHub Stats
 
-![Tannu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixeltannu&show_icons=true&theme=dracula&border_color=ff79c6&ring_color=ff79c6&title_color=ff79c6&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixeltannu&layout=compact&theme=dracula&border_color=ff79c6&title_color=ff79c6)
+![Stats](https://github-readme-stats-puce-phi-43.vercel.app/api?username=pixeltannu&show_icons=true&theme=dracula&border_color=ff79c6&ring_color=ff79c6&title_color=ff79c6)
+
+![Languages](https://github-readme-stats-puce-phi-43.vercel.app/api/top-langs/?username=pixeltannu&layout=compact&theme=dracula&border_color=ff79c6&title_color=ff79c6)
+
+</div>
 
 ## 🌐 Connect With Me
 

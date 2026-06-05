@@ -93,11 +93,11 @@ const tannu = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=pixeltannu&show_icons=true&theme=dracula&border_color=ff79c6&ring_color=ff79c6&title_color=ff79c6" />
-  &nbsp;&nbsp;
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixeltannu&layout=compact&theme=dracula&border_color=ff79c6&title_color=ff79c6&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pixeltannu&show_icons=true&theme=dracula&border_color=ff79c6&ring_color=ff79c6&title_color=ff79c6&include_all_commits=true&count_private=true" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixeltannu&layout=compact&theme=dracula&border_color=ff79c6&title_color=ff79c6&langs_count=6" />
+</p>
 
 ## 📈 Contribution Graph
 

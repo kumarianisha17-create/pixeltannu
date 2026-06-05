@@ -99,6 +99,14 @@ const tannu = {
 
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=pixeltannu&theme=dracula&no-frame=true&row=1&column=6)
+
+</div>
+
 ## 🌐 Connect With Me
 
 <div align="center">

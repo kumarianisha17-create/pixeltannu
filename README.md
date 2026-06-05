@@ -99,21 +99,7 @@ const tannu = {
 
 </div>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=pixeltannu&theme=dracula&no-frame=true&row=1&column=6)
-
-</div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pixeltannu&theme=dracula&border=ff79c6&ring=ff79c6&fire=ff79c6)
-
-</div>
 
 ## 🌐 Connect With Me
 
@@ -124,7 +110,13 @@ const tannu = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tannu.kumari002006@gmail.com)
 
 💬 Always open to learning, collaborating, and building something impactful together!
+## 🐍 Contribution Snake
 
+<div align="center">
+
+![Snake animation](https://github.com/pixeltannu/pixeltannu/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 </div>
 
 ---

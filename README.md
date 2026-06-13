@@ -14,29 +14,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-<img align="right" alt="Coding Girl" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-```javascript
-const tannu = {
-  name        : "Tannu Kumari",
-  username    : "@pixeltannu",
-  location    : "Bihar, India 🇮🇳",
-  pronouns    : "She / Her",
-  languages   : ["Hindi 🗣️", "English 📖", "Maithili 🌸"],
-  knows       : ["C", "Java", "HTML", "CSS"],
-  learning    : ["JavaScript 📚", "React ⚛️", "Tailwind CSS 🎨"],
-  codingStart : "Started coding after joining college 🎓",
-  goals       : ["Build production-grade web projects", "Contribute to impactful open source", "Explore AI/ML after Web Dev mastery"],
-  funFact     : "I turn chai ☕ and code into cool projects!"
-};
-```
-
-<br clear="right"/>
-
----
-
 ## 🚀 What I'm Up To
 
 - 🎓 Pursuing **B.Sc. Computer Science** at GITA
@@ -49,18 +26,6 @@ const tannu = {
 - 🔮 Future goal: **Exploring AI/ML after Web Dev**
 - 💬 Ask me about **Web Dev, GitHub, or Open Source!**
 - ⚡ Fun fact: **I debug with chai ☕ — works better than coffee!**
-
----
-
-## 🗣️ Languages I Speak
-
-<div align="center">
-
-![Hindi](https://img.shields.io/badge/Hindi-Native-ff79c6?style=for-the-badge)
-![Maithili](https://img.shields.io/badge/Maithili-Native-bd93f9?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Proficient-8be9fd?style=for-the-badge)
-
-</div>
 
 ---
 
@@ -89,6 +54,7 @@ const tannu = {
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 </div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -99,8 +65,6 @@ const tannu = {
 
 </div>
 
-
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -110,6 +74,7 @@ const tannu = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tannu.kumari002006@gmail.com)
 
 💬 Always open to learning, collaborating, and building something impactful together!
+
 ## 🐍 Contribution Snake
 
 <div align="center">
